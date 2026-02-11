@@ -1,3 +1,1 @@
-(async function () {
-  console.log('Entry point.');
-})();
+export * from './safe/safe';

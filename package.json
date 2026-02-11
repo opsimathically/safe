@@ -1,7 +1,7 @@
 {
-  "name": "@opsimathically/set_project_name",
+  "name": "@opsimathically/safe",
   "version": "0.0.1",
-  "description": "Set project description.",
+  "description": "Fork of safe-wrapper, used for error handling try/catch as tuples.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
