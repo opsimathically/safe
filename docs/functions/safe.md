@@ -8,7 +8,7 @@
 
 > **safe**\<`ActionType`, `ErrorType`\>(`action`, `types`, `transformer?`): `Safe`\<`ActionType`, `ErrorType`\>
 
-Defined in: safe.ts:95
+Defined in: [safe.ts:95](https://github.com/opsimathically/safe/blob/b4d241307b44c5ab42001a2a72e2ef3a670b741c/src/safe/safe.ts#L95)
 
 ## Type Parameters
 
